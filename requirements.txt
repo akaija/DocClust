@@ -1,0 +1,6 @@
+numpy
+scipy
+nltk
+sklearn
+mpld3
+genism
